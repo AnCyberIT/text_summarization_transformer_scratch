@@ -1,0 +1,2 @@
+# text_summarization_transformer_scratch
+Build transformer scratch for text summarization
